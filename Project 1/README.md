@@ -1,5 +1,11 @@
 # Financial Data Analysis
-In this project, you are going to use the following data sheets that are provided. 
+In this project, you are going to use the following data sheets that are provided to extract averages, totals, and comparisons to get better insight of the data.
+
+---
+
+Scenario:
+> You are a data analyst at a Hedge Fund and your manager just handed you 4 excel sheets from different dates. The data sets contain stock symbols from across the major stock indexes. Each symbol contains some data points. You are asked to analyze, manipulate, and send them a new excel sheet containing the analyzed data.
+
 
 ## Task
 The program you will create must do the following:
@@ -13,7 +19,7 @@ The program you will create must do the following:
 1. Get rid of items that are incomplete
 1. Get the total number of symbols
 1. Alphabetically organize the data using the fastest sorting method
-1. Save analyzed data into a `.csv` file
+1. Save the analyzed data into a `.csv` file
 
 ## Requirements
 In the program, you must achieve the following requirements:
@@ -24,4 +30,5 @@ In the program, you must achieve the following requirements:
 
 ## Watch Out For
 Things to watch out for:
-1. 
+1. Type errors
+1. Insufficient data
