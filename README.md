@@ -11,13 +11,13 @@ In order to take full advantage of this tutorial, there are 2 things you are req
 
 These 2 tools are what will get you through this tutorial series.
 
-When you finish downloading and installing Python onto your computer, test it out by opening up your **command prompt** (if you're using Windows) or **terminal** (if you're using Mac OS X). Type the following command 'python' to get a response similar to the following:
+When you finish downloading and installing Python onto your computer, test it out by opening up your **command prompt** (if you're using Windows) or **terminal** (if you're using Mac OS X). Type the following command `python` to get a response similar to the following:
 
-'''python
+```
 Python 3.8.1 (tags/v3.8.1:1b293b6, Dec 18 2019, 23:11:46) [MSC v.1916 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
-'''
+```
 
 
 ## Content
