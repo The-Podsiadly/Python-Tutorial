@@ -24,7 +24,6 @@ In the program, you must achieve the following requirements:
 1. Use a **generator expression**
 1. Catch errors using **try & except**
 1. Comment your code
-1. 
 
 ## Watch Out For
 Things to watch out for:
