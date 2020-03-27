@@ -1,8 +1,6 @@
 # Financial Data Analysis
 In this project, you are going to use the following data sheets that are provided to extract averages, totals, and comparisons to get better insight of the data.
 
----
-
 Scenario:
 > You are a data analyst at a Hedge Fund and your manager just handed you 4 excel sheets from different dates. The data sets contain stock symbols from across the major stock indexes. Each symbol contains some data points. You are asked to analyze, manipulate, and send them a new excel sheet containing the analyzed data.
 
