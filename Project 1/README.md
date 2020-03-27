@@ -12,12 +12,12 @@ In order to test your program, in the search bar of your **File Explorer**, type
 ## Task
 The program you will create must do the following:
 1. Open each file **regardless of name** in the folder `Data`
-  1. This means that you are to figure out a way to open up all the files, without specifying the file names individually (*I've said too much*)
+   1. This means that you are to figure out a way to open up all the files, without specifying the file names individually (*I've said too much*)
 1. Pull all the data out
 1. Put them into an array
 1. From the data, get the following information for each item (relative to the symbol):
-  1. The average change in data over the timeframe
-  1. The average of each data point
+   1. The average change in data over the timeframe
+   1. The average of each data point
 1. Get rid of items that are incomplete
 1. Get the total number of symbols
 1. Alphabetically organize the data using the fastest sorting method
