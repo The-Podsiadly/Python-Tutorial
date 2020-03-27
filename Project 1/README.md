@@ -23,6 +23,10 @@ The program you will create must do the following:
 1. Alphabetically organize the data using the fastest sorting method
 1. Save the analyzed data into a `.csv` file
 
+After you completed the program, figure out how to get the duration of the program: *How long does it take for your program to run?* 
+
+**Currently, there is no optimal time to get.**
+
 ## Requirements
 In the program, you must achieve the following requirements:
 1. Use a **generator expression**
