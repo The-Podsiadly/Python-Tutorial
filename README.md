@@ -1,5 +1,6 @@
 # Python Tutorial
 Learn Python in an interactive way. No more simple little projects and "type this to get that". Guided tutorial that forces the pupil to learn through self-discovery. I won't be there to hold their hand when they're working in the professional setting.
+
 ## Requirements
 In order to take full advantage of this tutorial, there are 2 things you are required to have:
 1. [Download the latest Python](https://www.python.org/downloads/)
@@ -7,10 +8,12 @@ In order to take full advantage of this tutorial, there are 2 things you are req
    1. [Windows 64-bit](https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe)
    1. [Mac OS X 64-bit](https://www.python.org/ftp/python/3.8.2/python-3.8.2-macosx10.9.pkg)
 1. [Download the latest version of Atom](https://atom.io/)
+
 These 2 tools are what will get you through this tutorial series.
 
 ## Content
 This tutorial will compromise of 10 projects. All getting harder and building off of one another. We will focus on learning to learn on your own and answering questions you have by looking it up; *trial and error*. As a programmer, you will at any level be looking stuff up, but the more you program, the easier fixing and optimizing will get.
+
 The skills I hope you will get out of this tutorial:
 - Being able to figure out the errors and how to fix them on your own.
 - Looking up answers to certain problems without relying on a "teacher"
