@@ -11,7 +11,7 @@ In order to test your program, in the search bar of your **File Explorer**, type
 
 ## Task
 The program you will create must do the following:
-1. Open each file **regardless of name**
+1. Open each file **regardless of name** in the folder `Data`
   1. This means that you are to figure out a way to open up all the files, without specifying the file names individually (*I've said too much*)
 1. Pull all the data out
 1. Put them into an array
