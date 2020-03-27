@@ -3,10 +3,10 @@ Learn Python in an interactive way. No more simple little projects and "type thi
 ## Requirements
 In order to take full advantage of this tutorial, there are 2 things you are required to have:
 1. [Download the latest Python](https://www.python.org/downloads/)
-   a. [Windows](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe)
-   b. [Windows 64-bit](https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe)
-   c. [Mac OS X 64-bit](https://www.python.org/ftp/python/3.8.2/python-3.8.2-macosx10.9.pkg)
-2. [Download the latest version of Atom](https://atom.io/)
+   1. [Windows](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe)
+   1. [Windows 64-bit](https://www.python.org/ftp/python/3.8.2/python-3.8.2-amd64.exe)
+   1. [Mac OS X 64-bit](https://www.python.org/ftp/python/3.8.2/python-3.8.2-macosx10.9.pkg)
+1. [Download the latest version of Atom](https://atom.io/)
 These 2 tools are what will get you through this tutorial series.
 
 ## Content
@@ -20,15 +20,15 @@ The skills I hope you will get out of this tutorial:
 *What are the topics we are going to go over?*
 You will create programs ranging from Excel sheet data analysis to basic machine learning algorithm. Here is a list of the 10 projects you will be working on:
 1. Financial data analysis
-2. Stock market data webscraping & analysis
-3. HTML email sender
-4. Asynchronous data manipulation
-5. Recreating a simulation
-6. Communction program
-7. Web application
-8. Machine learning
-9. Blockchain
-10. AI IoT Surveillance System
+1. Stock market data webscraping & analysis
+1. HTML email sender
+1. Asynchronous data manipulation
+1. Recreating a simulation
+1. Communction program
+1. Web application
+1. Machine learning
+1. Blockchain
+1. AI IoT Surveillance System
 
 Don't be scared. You'll be able to show off your skills to recruiters after this. During some project, I will have a short guide on how to setup a Github account through Atom so you can **Push** and **Commit** your projects. We will be using Github as our version control. It's the easiest to access public files and check the code out.
 
