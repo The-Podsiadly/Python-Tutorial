@@ -16,7 +16,6 @@ The program you will create must do the following:
 1. Pull all the data out
 1. Put them into an array
 1. From the data, get the following information for each item (relative to the symbol):
-   1. The average change in data over the timeframe
    1. The average of each data point
 1. Get rid of items that are incomplete
 1. Get the total number of symbols
