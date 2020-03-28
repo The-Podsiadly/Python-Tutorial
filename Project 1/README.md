@@ -22,7 +22,7 @@ The program you will create must do the following:
 
 After you completed the program, figure out how to get the duration of the program: *How long does it take for your program to run?* 
 
-**Currently, there is no optimal time to get.**
+**Currently, my program ran the fastest at: 1.35828s**
 
 ## Requirements
 In the program, you must achieve the following requirements:
