@@ -16,13 +16,14 @@ The program you will create must do the following:
 1. Pull all the data out
 1. Put them into a dictionary
 1. Clean up the data
-1. Get the total number of symbols
-1. Alphabetically organize the data using the fastest sorting method
+1. Alphabetically organize the data using the a sorting method
+1. Average out all the data for the same symbols
+   1. To make this easier, assume all the symbols are included even if they are no longer on the market
 1. Save the data into a `.csv` file
 
 After you completed the program, figure out how to get the duration of the program: *How long does it take for your program to run?* 
 
-**Currently, my program ran the fastest at: 1.35828s**
+**Currently, my program ran the fastest at: 2.146259s**
 
 ## Requirements
 In the program, you must achieve the following requirements:
