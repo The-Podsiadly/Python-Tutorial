@@ -31,7 +31,7 @@ The skills I hope you will get out of this tutorial:
 
 *What are the topics we are going to go over?*
 You will create programs ranging from Excel sheet data analysis to basic machine learning algorithm. Here is a list of the 10 projects you will be working on:
-1. Financial data analysis
+1. Financial data minimziation
 1. Stock market data webscraping & analysis
 1. HTML email sender
 1. Asynchronous data manipulation
