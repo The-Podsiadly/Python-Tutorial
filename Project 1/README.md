@@ -1,4 +1,4 @@
-# Financial Data Analysis
+# Financial Data Minimization
 In this project, you are going to use the following data sheets that are provided to extract averages, totals, and comparisons to get better insight of the data. Download the `Data.zip` file and extract the files.
 
 Scenario:
