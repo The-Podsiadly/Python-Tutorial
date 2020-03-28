@@ -27,8 +27,8 @@ After you completed the program, figure out how to get the duration of the progr
 
 ## Requirements
 In the program, you must achieve the following requirements:
-1. Use a **generator expression**
-1. Catch errors using **try & except**
+1. Use a `generator expression`
+1. Use a `zip` function
 1. Comment your code
 
 ## Watch Out For
