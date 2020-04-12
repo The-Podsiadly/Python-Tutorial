@@ -21,7 +21,7 @@ The program you will create must do the following:
    1. To make this easier, assume all the symbols are included even if they are no longer on the market
 1. Save the data into a `.csv` file
 
-After you completed the program, figure out how to get the duration of the program: *How long does it take for your program to run?* 
+After you completed the program, figure out how to get the duration of the program: *How long does it take for your program to run?*
 
 **Currently, my program ran the fastest at: 2.146259s**
 
@@ -36,6 +36,6 @@ Things to watch out for:
 1. Type errors
 1. Insufficient data
 
-To test your program, I recommend `print()` whenever you want to see how your data came out. From there, you can analyze what is going on in your code. 
+To test your program, I recommend `print()` whenever you want to see how your data came out. From there, you can analyze what is going on in your code.
 
 **Good for testing, not production!**
