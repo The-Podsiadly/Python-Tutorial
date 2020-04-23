@@ -13,6 +13,8 @@ These 2 tools are what will get you through this tutorial series.
 
 When you finish downloading and installing Python onto your computer, test it out by opening up your **command prompt** (if you're using Windows) or **terminal** (if you're using Mac OS X). Type the following command `python` to get a response similar to the following:
 
+> Task: Show how to open command prompt in file explorer
+
 ```
 Python 3.8.1 (tags/v3.8.1:1b293b6, Dec 18 2019, 23:11:46) [MSC v.1916 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
@@ -43,6 +45,3 @@ You will create programs ranging from Excel sheet data analysis to basic machine
 1. AI IoT Surveillance System
 
 Don't be scared. You'll be able to show off your skills to recruiters after this. During some project, I will have a short guide on how to setup a Github account through Atom so you can **Push** and **Commit** your projects. We will be using Github as our version control. It's the easiest to access public files and check the code out.
-
-
-
